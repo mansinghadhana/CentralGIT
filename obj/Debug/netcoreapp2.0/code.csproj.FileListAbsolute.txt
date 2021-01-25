@@ -1,0 +1,10 @@
+C:\Users\Pinga\text\code\bin\Debug\netcoreapp2.0\code.deps.json
+C:\Users\Pinga\text\code\bin\Debug\netcoreapp2.0\code.runtimeconfig.json
+C:\Users\Pinga\text\code\bin\Debug\netcoreapp2.0\code.runtimeconfig.dev.json
+C:\Users\Pinga\text\code\bin\Debug\netcoreapp2.0\code.dll
+C:\Users\Pinga\text\code\bin\Debug\netcoreapp2.0\code.pdb
+C:\Users\Pinga\text\code\obj\Debug\netcoreapp2.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Pinga\text\code\obj\Debug\netcoreapp2.0\code.AssemblyInfoInputs.cache
+C:\Users\Pinga\text\code\obj\Debug\netcoreapp2.0\code.AssemblyInfo.cs
+C:\Users\Pinga\text\code\obj\Debug\netcoreapp2.0\code.dll
+C:\Users\Pinga\text\code\obj\Debug\netcoreapp2.0\code.pdb
