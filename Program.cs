@@ -6,8 +6,9 @@ namespace code
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Hello India1");
-            Console.WriteLine("Hello World! Hello India2");
+
+            Console.WriteLine("Hello Mr. India");
+
         }
     }
 }
